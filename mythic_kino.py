@@ -787,7 +787,7 @@ async def search_kino(message: types.Message):
                     f"🎬 <b>{name}</b>\n"
                     "━━━━━━━━━━━━━━━\n"
                     f"📌 <b>Kod:</b> {code}\n"
-                    f"📂 <b>Hajmi:</b> {size}\n"Q
+                    f"📂 <b>Hajmi:</b> {size}\n"
                     f"🎥 <b>Sifat:</b> {quality}\n"
                     f"👀 <b>Ko‘rishlar:</b> {new_views}\n"
                     "━━━━━━━━━━━━━━━\n"
