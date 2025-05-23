@@ -1,0 +1,6 @@
+__pycache__/
+  *.pyc
+  *.log
+  kino_users.db
+  kino_data.db
+  *.env
