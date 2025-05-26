@@ -1,6 +1,2 @@
-__pycache__/
-  *.pyc
-  *.log
-  kino_users.db
-  kino_data.db
-  *.env
+aiogram==3.13.1
+psycopg2-binary==2.9.9
